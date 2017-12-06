@@ -5,13 +5,13 @@ var a = prompt('podaj wartosc a'),
 console.log('wynik dzialania:' + value);
 
 if (value > 0) {
-console.log('wwartosc dodatnia');
+    console.log('wwartosc dodatnia');
 }
 else if (value < 0) {
-console.log('wartosc ujemna');
+    console.log('wartosc ujemna');
 }
 else {
-console.log('wartosc jest rowna 0');
+    console.log('wartosc jest rowna 0');
 }
 
 
